@@ -1,0 +1,18 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data files (prevents uploading large CSVs to GitHub)
+data/
+*.csv
+
+# Output files
+output/
+
+# VS Code settings
+.vscode/
